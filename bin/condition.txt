@@ -1,0 +1,6 @@
+sample	groups1	groups2	types
+SRR950082	A	C	pair/normal
+SRR950083	B	D	pair/normal
+SRR950085	A	D	pair/normal
+SRR950086	B	C	pair/normal
+SRR950087	A	C	pair/normal
