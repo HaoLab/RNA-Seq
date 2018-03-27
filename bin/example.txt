@@ -1,0 +1,4 @@
+P1	test1	/lustre/rdi/user/songx/RNA-seq/rawdata
+P2	test2	/lustre/rdi/user/songx/RNA-seq/rawdata
+P1	test3	/lustre/rdi/user/songx/RNA-seq/rawdata
+P2	test4	/lustre/rdi/user/songx/RNA-seq/rawdata
